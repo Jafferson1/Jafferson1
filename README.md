@@ -4,7 +4,7 @@ I have solid knowledge in:
 
 - Back-end with Java
 - Front-end Mobile with React Native
-- Front-end Web with AngularJS
+- Front-end Web with React and AngularJS
 - JavaScript
 - TypeScript
 - Git
